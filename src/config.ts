@@ -60,7 +60,7 @@ export const config = {
             technologies: "Flutter, Dart, Windows",
             features: ["Medicine inventory and stock", "Purchases and sales", "Customer records and expiry tracking", "Business reports"],
             image: "/projects/pharmacy-pos.webp",
-            status: "Ongoing project" }, { id: 5, title: "Misha Beauty Salon", category: "Landing Page", description: "Landing page built for a real salon client in Rahim Yar Khan, presenting services, gallery inspiration and appointment enquiries.", technologies: "Landing Page", features: ["Service categories and gallery inspiration", "WhatsApp appointment enquiry", "Location in Trust Colony, Rahim Yar Khan"], link: "https://miishasaloon.vercel.app", status: "Live Demo"
+            status: "Ongoing project" }, { id: 5, title: "Misha Beauty Salon", category: "Landing Page", description: "Landing page built for a real salon client in Rahim Yar Khan, presenting services, gallery inspiration and appointment enquiries.", technologies: "Landing Page", features: ["Service categories and gallery inspiration", "WhatsApp appointment enquiry", "Location in Trust Colony, Rahim Yar Khan"], link: "https://miishasaloon.vercel.app", image: "/projects/misha-beauty-salon.jpg", status: "Live Demo"
         }
     ] as Project[],
     contact: {
