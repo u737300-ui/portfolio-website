@@ -60,11 +60,11 @@ export const config = {
             technologies: "Flutter, Dart, Windows",
             features: ["Medicine inventory and stock", "Purchases and sales", "Customer records and expiry tracking", "Business reports"],
             image: "/projects/pharmacy-pos.webp",
-            status: "Ongoing project"
+            status: "Ongoing project" }, { id: 5, title: "Misha Beauty Salon", category: "Landing Page", description: "Landing page built for a real salon client in Rahim Yar Khan, presenting services, gallery inspiration and appointment enquiries.", technologies: "Landing Page", features: ["Service categories and gallery inspiration", "WhatsApp appointment enquiry", "Location in Trust Colony, Rahim Yar Khan"], link: "https://miishasaloon.vercel.app", status: "Live Demo"
         }
     ] as Project[],
     contact: {
-        email: null as string | null,
+        email: "arslan100110011@gmail.com",
         github: null as string | null,
         linkedin: "https://www.linkedin.com/in/arslan-mohsin-b53580388/",
         instagram: "https://www.instagram.com/its.mr.ars/",
