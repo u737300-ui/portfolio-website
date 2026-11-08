@@ -71,6 +71,7 @@ export const config = {
             technologies: "HTML, CSS, JavaScript",
             features: ["Scroll-driven build animation with replay", "Strength, conditioning & cardio sections", "The Space tour and location", "WhatsApp and Google Maps CTAs"],
             link: "https://raiarslan1744.github.io/ultimate-fitness-preview/",
+            image: "/projects/ultimate.jpg",
             status: "Live Demo"
         },
         {
@@ -81,6 +82,7 @@ export const config = {
             technologies: "HTML, CSS, JavaScript",
             features: ["Class search by class & subject", "Transparent monthly fees", "Home, centre & online modes", "Career courses in computer, AI, marketing & analytics"],
             link: "https://u737300-ui.github.io/elite-tuition-sample/",
+            image: "/projects/elite.jpg",
             status: "Live Demo"
         },
         {
@@ -91,6 +93,7 @@ export const config = {
             technologies: "HTML, CSS, JavaScript",
             features: ["Newborn, maternity & family sessions", "Session pricing from $590", "Studio & home sessions", "Online gallery & booking enquiry"],
             link: "https://u737300-ui.github.io/aura-studio-sample/",
+            image: "/projects/aura.jpg",
             status: "Live Demo"
         },
         {
@@ -101,6 +104,7 @@ export const config = {
             technologies: "HTML, CSS, JavaScript",
             features: ["Seasonal Italian menu", "Chef's specials & wine pairings", "Private dining & events", "Online table reservation form"],
             link: "https://u737300-ui.github.io/bella-tavola-demo/",
+            image: "/projects/bella.jpg",
             status: "Live Demo"
         },
         {
@@ -111,6 +115,7 @@ export const config = {
             technologies: "HTML, CSS, JavaScript",
             features: ["Hair, nails, skin & makeup services", "Transparent pricing", "Online booking request form", "Gallery of recent work"],
             link: "https://u737300-ui.github.io/glow-co-demo/",
+            image: "/projects/glow.jpg",
             status: "Live Demo"
         },
         {
@@ -130,6 +135,7 @@ export const config = {
             description: "Film-style dark cinematic landing page concept for a premium gym — parallax hero, bold typography, TRAIN HARD headline, WhatsApp join CTA; programs, coaching and membership sections.",
             technologies: "HTML, CSS, JavaScript",
             features: ["Parallax hero with bold TRAIN HARD headline", "Programs, coaching & membership sections", "WhatsApp join CTA", "Film-style dark cinematic design"],
+            image: "/projects/apex-cover.webp",
             status: "Design Concept"
         },
     ] as Project[],
