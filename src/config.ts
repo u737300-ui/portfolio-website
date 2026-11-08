@@ -126,6 +126,7 @@ export const config = {
             technologies: "Flutter, Dart",
             features: ["Workout logging & tracking", "Flutter & Dart codebase", "Cross-platform mobile app", "Demo build"],
             link: "https://github.com/u737300-ui",
+            image: "/projects/fittrack.jpg",
             status: "Demo"
         },
         {
