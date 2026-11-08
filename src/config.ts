@@ -139,18 +139,21 @@ export const config = {
         linkedin: "https://www.linkedin.com/in/arslan-mohsin-b53580388/",
         instagram: "https://www.instagram.com/its.mr.ars/",
         whatsapp: "https://wa.me/923708340704",
-        twitter: null as string | null,
+        twitter: null as string | null
     },
     skills: {
         develop: {
-            title: "Develop",
-            description: "I focus on practical software that solves real problems. I build business systems, desktop and mobile apps, websites and interactive experiences with clean structure and usable design.",
-            details: ["Flutter", "TypeScript", "React", "Next.js", "Node.js", "REST APIs", "PostgreSQL", "MySQL", "Firebase", "Electron", "Tauri", "Three.js", "TailwindCSS", "HTML", "CSS", "JavaScript"],
+            title: "APPLICATIONS",
+            description: "Practical software for real workflows",
+            details: "Building mobile and desktop applications with Flutter, plus modern web applications with React and TypeScript. I focus on clear interfaces, dependable workflows and useful software.",
+            tools: ["Flutter", "Dart", "React", "TypeScript", "JavaScript", "HTML", "CSS"]
         },
         design: {
-            title: "Design",
-            description: "I focus on clear interfaces, easy navigation and visual stories that help users feel comfortable and confident. My goal is always simple, useful and pleasant design.",
-            details: ["UI/UX Design", "Figma", "Responsive Design", "Visual Design", "Branding", "3D Web Design", "Motion Design", "Wireframes", "Prototyping"],
+            title: "SYSTEMS",
+            description: "Connected, resilient and interactive systems",
+            details: "Working across REST APIs, PostgreSQL, authentication, offline-first behavior, LAN synchronization and interactive 3D experiences with Three.js and GSAP.",
+            tools: ["REST APIs", "PostgreSQL", "Authentication", "Database systems", "Three.js", "React Three Fiber", "WebGL", "GSAP", "Next.js", "Tailwind CSS", "Git", "Vite", "Android Studio", "VS Code"]
         },
     },
 };
+
