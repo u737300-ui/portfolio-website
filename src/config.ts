@@ -139,7 +139,7 @@ export const config = {
             image: "/projects/apex-cover.webp",
             status: "Design Concept"
         },
-    ] as Project[],
+    { id: 13, title: "True Definition of Photography — Photography Studio Website", category: "Photography Studio Website", description: "Complete photography-studio website: 22-card gallery, services, and a booking form that sends requests to the studio's WhatsApp. Built as a live demo.", technologies: "HTML, CSS, JavaScript, GitHub Pages", features: ["22-card gallery", "Services section", "WhatsApp booking form"], link: "https://u737300-ui.github.io/photo-td-photography/", image: "https://images.pexels.com/photos/17542154/pexels-photo-17542154.jpeg?auto=compress&cs=tinysrgb&w=800", status: "Live Demo" }, ] as Project[],
     contact: {
         email: "arslan100110011@gmail.com",
         github: null as string | null,
